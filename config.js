@@ -1,2 +1,3 @@
 module.exports = {
-    token: 'TOKEN_AUTH'}
+    token: 'TOKEN_AUTH'
+}
